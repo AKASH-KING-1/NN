@@ -1,3 +1,2 @@
-import os
-import NN
-NN.loging()
+try: 
+  K
